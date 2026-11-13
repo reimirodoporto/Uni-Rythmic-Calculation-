@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uni-Rythmics</string>
+    <string name="reset_calibration">reset calibration</string>
+    <string name="nav_workbench">WORKBENCH</string>
+    <string name="nav_matrix">SCALE MATRIX</string>
+    <string name="nav_taxonomies">TAXONOMIES</string>
+    <string name="nav_challenges">CHALLENGES</string>
+    <string name="nav_ai_assist">GEMINI AI</string>
+    <string name="nav_lean_kernel">LEAN KERNEL</string>
+    <string name="theme_toggle_cd">toggle obsidian vacuum or daylight laboratory theme</string>
+</resources>

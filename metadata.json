@@ -1,0 +1,8 @@
+{
+  "name": "Uni-Rythmics",
+  "description": "Uni-Rythmics: Horological Metrology & Golden-Ratio Scaling Workbench with 1 Gunit = 1 var = var of comparison equivalence engine and Firebase AI Logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
